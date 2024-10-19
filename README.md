@@ -1,7 +1,7 @@
 ﻿` `**README**
 
 # **1. PROJECT NAME:**
-- Hosting a Text Classififiction Model with Logistic Regression on a FASTAPI server
+- Hosting Text Classififiction Model with Logistic Regression on a FASTAPI server
 
 **2. PROJECT OVERVIEW:**
 
